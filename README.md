@@ -13,3 +13,4 @@ Yamaha MIDI pinout: https://sandsoftwaresound.net/reface-midi-pin-out/
 Matthew's patch box code: https://github.com/matthewcieplak/reface_midi/blob/main/reface_midi_firmware/reface_midi_firmware.ino
 Short video of the box: https://www.youtube.com/shorts/nZQOHJhSrHA
 
+Do not have the Yamaha Reface CS connected while programming the PICmicro, because there is no optocoupler keeping separation.
